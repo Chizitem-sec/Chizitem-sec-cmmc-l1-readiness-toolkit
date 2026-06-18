@@ -1,4 +1,4 @@
-# # CMMC Level 1 Readiness Toolkit
+## CMMC Level 1 Readiness Toolkit
 
 A practitioner's reference library for the **15 requirements of CMMC Level 1** (58 assessment objectives) — the cybersecurity baseline that protects **Federal Contract Information (FCI)** for organizations in the U.S. Defense Industrial Base. For each requirement, the toolkit answers the questions a small business (and its assessor) actually asks: *who owns it, what it means, how it's audited, what evidence proves it, what to ask, and when it doesn't apply* — plus how each requirement maps to the commercial frameworks (**SOC 2** and **ISO 27001:2022**) those same businesses often need next.
 
